@@ -1,7 +1,8 @@
 # Book-store-using-HTML5-CSS3-JavaScript
 
 
-I have to make a responsive book store website design using Html CSS and vanilla javascript from scratch.
+I have to make a responsive book store website design using Html,CSS,javascript .
+It contains Home,Featured,Arrivals,Reviews,Blogs page.
 
 The main feature of this website is:
 ✅ responsive doubleheader with search form and bottom navbar sticky effect using javascript.
